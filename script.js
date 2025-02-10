@@ -1,8 +1,8 @@
 const messages = [
-    "Are you sure?",
+    "Are you sure Tonkaow?",
     "Really sure?",
-    "Think again...",
-    "Last chance...",
+    "Think again...PLS",
+    "Last chance... :(",
     "Come on, say Yes! ❤️"
 ];
 
